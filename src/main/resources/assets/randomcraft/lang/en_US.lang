@@ -1,0 +1,11 @@
+item.coin.name=Coin
+item.coinhead.name=Coin [Heads]
+item.cointail.name=Coin [Tails]
+item.die.name=Random Die
+item.d4.name=4 Sided Die
+item.d6.name=6 Sided Die
+item.d8.name=8 Sided Die
+item.d10.name=10 Sided Die
+item.d12.name=12 Sided Die
+item.d20.name=20 Sided Die
+itemGroup.tabName=RandomCraft

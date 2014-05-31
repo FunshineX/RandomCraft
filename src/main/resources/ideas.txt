@@ -1,0 +1,18 @@
+RandomCraft ideas
+
+Dice Pouch
+	add dice, roll all with right click
+	chest item?  size?
+	
+
+Random Blocks
+Ore 	   changes textures randomly - when mined provides random ore
+Furnace	   add a 4 sided die - rolls each time fuel consumed, 1 = lose it, 2,3,4 = lengthened time
+Chest      add a 6 sided die - size dependent on dice roll when created (1=1 stack chest, 6=3xChest)
+
+Random Tools - on a 1, tool breaks and needs a new die to repair - otherwise no durability
+Pick	   2 right click on random ore harvests what shows, right click on other ore drops 2
+Axe		   12 cuts down whole tree on a 12 with right click
+Shovel     10 random number of dirt blocks on right click
+Sword      20 right click gives random enchant level based on dice roll 
+Hoe        8 bonemeal on right click
